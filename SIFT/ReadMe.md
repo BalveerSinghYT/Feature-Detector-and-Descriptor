@@ -19,7 +19,7 @@ pip install opencv-python
 python SIFT.py
 ```
 3. The output image will be displayed as:
-![SIFT]('Output/SIFT.jpg')
+   <p align="center"><img src="https://github.com/BalveerSinghYT/Feature-Detection-and-Description/assets/44961536/f9aa8417-c2e5-42c1-8a4a-d47ecc9c3f29"></p>
 
 ## References
 1. **Explanation by  Dr. Mubarak Shah:** https://www.youtube.com/watch?v=NPcMS49V5hg
